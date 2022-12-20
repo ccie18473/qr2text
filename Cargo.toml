@@ -9,5 +9,5 @@ edition = "2021"
 crate-type = ["cdylib", "rlib"]
 
 [dependencies]
-eframe = "*"
-qrcode = "*"
+eframe = "0.16"
+qrcode = "0.12"
